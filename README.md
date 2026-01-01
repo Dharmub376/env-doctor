@@ -117,10 +117,6 @@ Contributions are welcome! Here's how you can help:
 
 Please read [CONTRIBUTING.md](https://github.com/Dharmub376/env-doctor/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Dharmub376/env-doctor/blob/main/LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with ❤️ by [Dharmub376](https://github.com/Dharmub376)
