@@ -1,10 +1,3 @@
-/**
- * This script runs `npx @convex-dev/auth` to help with setting up
- * environment variables for Convex Auth.
- *
- * You can safely delete it and remove it from package.json scripts.
- */
-
 import fs from "fs";
 import { config as loadEnvFile } from "dotenv";
 import { spawnSync } from "child_process";
