@@ -290,12 +290,7 @@ All contributors will be:
 - Ask in GitHub Discussions
 - Reach out to maintainers
 
-## 📚 Additional Resources
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://react.dev)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ## 🙏 Thank You!
 
